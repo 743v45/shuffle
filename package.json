@@ -1,0 +1,16 @@
+{
+  "name": "shuffle",
+  "version": "0.0.0",
+  "description": "Implementation of shuffling algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shuffle",
+    "Knuth-Durstenfeld",
+    "Fisher-Yates"
+  ],
+  "author": "taevas",
+  "license": "ISC"
+}
