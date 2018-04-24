@@ -4,7 +4,7 @@
   "description": "Implementation of shuffling algorithm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "shuffle",
@@ -12,5 +12,8 @@
     "Fisher-Yates"
   ],
   "author": "taevas",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.0.4"
+  }
 }
